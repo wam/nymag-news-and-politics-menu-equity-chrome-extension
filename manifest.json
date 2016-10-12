@@ -1,6 +1,6 @@
 {
-  "name": "NY Magazine News & Politics Menu Equity",
-  "version": "1.0.0.0",
+  "name": "NYMag News & Politics Menu Equity",
+  "version": "1.0.0.1",
   "manifest_version": 2,
   "description": "Restore fairness to the nymag.com News & Politics menu",
   "icons": {
