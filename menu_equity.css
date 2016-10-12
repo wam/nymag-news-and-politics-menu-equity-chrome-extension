@@ -1,0 +1,7 @@
+.nav2 section.mNews a:nth-of-type(-n+2) {
+	font-weight: normal;
+}
+
+.nav2 section.mNews a:nth-of-type(1) {
+	font-weight: 700;
+}
