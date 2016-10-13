@@ -14,10 +14,7 @@ This is a work of fandom, and is not affiliated with New York Magazine.
 
 ## Installation
 
-Currently only installable as an unpacked extension.
-
-Download the source, open `chrome://extensions`, enable "Developer Mode",
-click "Load Unpacked Extension", and select the source directory.
+[Chrome Web Store](https://chrome.google.com/webstore/detail/nymag-news-politics-menu/ogjmcgchoenpefiedicogoedblekjkkp)
 
 ## License
 
