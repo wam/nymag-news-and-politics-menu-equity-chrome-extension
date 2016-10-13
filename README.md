@@ -25,5 +25,5 @@ MIT License.
 
 ## Real Talk
 
-It's easy to nickpick other people's code, decisions, and priorities. Working
+It's easy to nitpick other people's code, decisions, and priorities. Working
 on the actual bugs in my own CMS is not so easy, somehow.
